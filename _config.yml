@@ -1,4 +1,10 @@
 remote_theme: christianezeani/panthera-jekyll
-title: [The title of your site or Profile Name]
-subtitle: [A brief subtitle or job title]
-description: [A short description of your site's purpose]
+title: Brown Bread and Roses
+subtitle: Bits and Pieces
+description: Vaguely related to InfoSec
+
+# Side Menu Links
+menu:
+  - text: GDPR
+    link: /gdpr
+    icon: ""
