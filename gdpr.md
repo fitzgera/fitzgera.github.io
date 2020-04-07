@@ -8,5 +8,5 @@ GDPR stuff goes here.
   <li>Tea</li>
   <li>Milk</li>
 </ul>
-<iframe src="gdprcollapse.html"></iframe>
+<iframe src="gdprcollapse.html" style="border:none;"></iframe>
  
