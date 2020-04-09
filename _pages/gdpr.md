@@ -3,7 +3,7 @@ permalink: /gdpr/
 title: "GDPR"
 ---
 
-# GDPR Page2
+# GDPR Page3
 
 <iframe src="gdprcollapse.html"  ></iframe>
  
