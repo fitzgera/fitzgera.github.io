@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR"
+title: "GDPR7"
 ---
 
 # GDPR Page6
