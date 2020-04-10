@@ -9,6 +9,7 @@ title: "GDPR7"
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+{::nomarkdown}
 
 <div data-role="page" id="pageone">
   <div data-role="header">
@@ -2604,3 +2605,4 @@ seized may stay its proceedings or may, on request of one of the parties, declin
 
 </div>
 
+{:/nomarkdown}
