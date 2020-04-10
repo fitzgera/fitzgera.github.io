@@ -19,8 +19,7 @@ title: "GDPR"
       <div data-role="collapsibleset">
 <div data-role="collapsible">
               <h2>Notes</h2>
-              <p><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679">GDPR on EU website</a> 
-</div>
+              <p><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679">GDPR on EU website</a> </div>
           <div data-role="collapsible">
               <h2>Recitals</h2>
 <p>(1)	The protection of natural persons in relation to the processing of personal data is a fundamental right. Article 8  of the Charter of Fundamental Rights of the European Union   (the ‘Charter’) and Article 16 of the Treaty on the Functioning of the European Union (TFEU) provide that everyone has the right to the protection of personal data concerning him or her. 
