@@ -19,7 +19,7 @@
   z-index: 20;
   width: 100%;  //Added
   background: $background-color;   //Added
-  height: 85px;   //Added
+  height: 65px;   //Added
 
   &__inner-wrap {
     @include clearfix;
