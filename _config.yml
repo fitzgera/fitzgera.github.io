@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Alexis FitzGerald"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Information Security Risk and Data Privacy "
+  bio    : "2Information Security Risk and Data Privacy "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
