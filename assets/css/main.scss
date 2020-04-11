@@ -9,7 +9,7 @@
 @import "minimal-mistakes"; // main partials
 
 .masthead {
-  position: fixed; /changed
+  position: fixed; //changed
   top: 0; //added
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
