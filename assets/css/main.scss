@@ -9,17 +9,18 @@
 @import "minimal-mistakes"; // main partials
 
 // useful reference https://cssreference.io/property/background-color/
+// https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 .masthead {
   position: fixed; 
   top: 0; 
   width: 100%;  
-  background: #ac4142; //red; //rgba(50, 115, 220, 0.3);//$background-color;   
+  background: gainsboro; //#ac4142; //red; //rgba(50, 115, 220, 0.3);//$background-color;   
   height: 85px;   
 
  }
 
 .greedy-nav {
-  background: #ac4142; //red;// rgba(50, 115, 220, 0.3);//$background-color;   //Added
+  background: gainsboro; //red;// rgba(50, 115, 220, 0.3);//$background-color;   //Added
 }
 
 body {
