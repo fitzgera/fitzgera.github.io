@@ -8,19 +8,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// useful reference https://cssreference.io/property/background-color/
 .masthead {
-  position: fixed; //changed
-  top: 0; //added
-  width: 100%;  //Added
-  background:  rgba(50, 115, 220, 0.3);//$background-color;   //Added
-  height: 85px;   //Added
-  
-  .masthead__menu {
-    background:  rgba(50, 115, 220, 0.3);//$background-color;   //Added
-  }
-  
+  position: fixed; 
+  top: 0; 
+  width: 100%;  
+  background:  rgba(50, 115, 220, 0.3);//$background-color;   
+  height: 85px;   
+
  }
 
 .greedy-nav {
-  background:  indianred;//$background-color;   //Added
+  background:  rgba(50, 115, 220, 0.3);//$background-color;   //Added
 }
