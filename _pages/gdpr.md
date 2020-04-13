@@ -1,10 +1,10 @@
 ---
 permalink: /gdpr/
-title: "GDPR18"
+title: "GDPR19"
 ---
 
 
-# GDPR Page18A
+# GDPR Page19A
 
-<iframe width="560" height="1000" src="gdprcollapse" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="1000" height="5000" src="gdprcollapse" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
