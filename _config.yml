@@ -65,25 +65,28 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alexisfitzg/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/alexisfitzg/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/fitzgera/"
  
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/alexisfitzg"
+      url: "https://twitter.com/alexisfitzg/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fitzgera"
-   - label: "LinkedIn"
+      url: "https://github.com/fitzgera/"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alexisfitzg"
+      url: "https://www.linkedin.com/in/alexisfitzg/"
       
 
 defaults:
