@@ -1,15 +1,15 @@
 ---
 permalink: /gdpr/
-title: "GDPR21"
+title: "GDPR22"
 ---
 
 
-# GDPR Page21A
+# GDPR Page22A
 <p>
   hello before
   <p>
 <script>
-document.write('"hello from 21");
+document.write("hello from 22");
 </script>
 <p>
   hello after
