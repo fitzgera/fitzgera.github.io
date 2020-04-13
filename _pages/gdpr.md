@@ -1,11 +1,11 @@
 ---
 permalink: /gdpr/
-title: "GDPR11"
+title: "GDPR12"
 ---
 <!-- NOTE use of nomarkdown wrappers -->
 <!-- -->
 
-# GDPR Page11
+# GDPR Page12A
 
 
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
@@ -18,8 +18,9 @@ title: "GDPR11"
   <div data-role="header">
     <h1>GDPR as Collapsible Sets</h1>
   </div>
- -->
+ 
   <div data-role="main" class="ui-content">
+-->  
       <div data-role="collapsibleset">
 <div data-role="collapsible">
               <h2>Notes</h2>
@@ -2599,13 +2600,8 @@ seized may stay its proceedings or may, on request of one of the parties, declin
                   <p> 2.	It shall apply from 25 May 2018.
 
 </div>
-          </div>
-
-
-
-   
-
 <!-- 
+</div>
 </div>
 -->
 
