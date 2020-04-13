@@ -13,6 +13,7 @@ title: "GDPR12"
 <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 {::nomarkdown}
 
+<div>
 <!-- 
 <div data-role="page" id="pageone">
   <div data-role="header">
@@ -21,6 +22,7 @@ title: "GDPR12"
  
   <div data-role="main" class="ui-content">
 -->  
+  
       <div data-role="collapsibleset">
 <div data-role="collapsible">
               <h2>Notes</h2>
@@ -2604,5 +2606,5 @@ seized may stay its proceedings or may, on request of one of the parties, declin
 </div>
 </div>
 -->
-
+</div>
 {:/nomarkdown}
