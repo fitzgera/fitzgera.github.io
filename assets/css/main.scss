@@ -8,6 +8,12 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+//Changes included here for the following purposes:
+// 1. Make masthead/header "sticky" (it doesn't move)
+// 2. Change  background colour of masthead to  #ac4142;
+// 3. change colour of masthead/header menu  items to white
+
+// see  https://krisshen.me/project_website/how-to-make-header-sticky/ for  info on making header/masthead sticky
 // useful reference https://cssreference.io/property/background-color/
 // https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 .masthead {
