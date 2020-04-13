@@ -1,13 +1,10 @@
 ---
 permalink: /gdpr/
-title: "GDPR16"
+title: "GDPR17"
 ---
 
 
-# GDPR Page16A
+# GDPR Page17A
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="gdprcollapse.html" allowfullscreen></iframe>
-</div>
-
+<iframe width="560" height="315" src="gdprcollapse" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
