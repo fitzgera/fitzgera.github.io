@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR12"
+title: "GDPR13"
 ---
 <!-- NOTE use of nomarkdown wrappers -->
 <!-- -->
@@ -25,7 +25,7 @@ title: "GDPR12"
   
       <div data-role="collapsibleset">
 <div data-role="collapsible">
-              <h2>Notes</h2>
+              <h2>Notes13</h2>
               <p><a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679">GDPR on EU website</a> </div>
           <div data-role="collapsible">
               <h2>Recitals</h2>
