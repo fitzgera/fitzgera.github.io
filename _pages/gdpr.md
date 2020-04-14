@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR28"
+title: "GDPR29"
 ---
 
 
