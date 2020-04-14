@@ -11,6 +11,11 @@ title: "GDPR28"
 <script>
 
 document.write("hello<br>");
+var x = document.getElementsByTagName("ARTICLE");
+var y = x.getElementsByClassName("page");
+document.write("scroll width: " + y[0].scrollWidth);
+
+
 x = document.getElementsByTagName("*");
 l = x.length;
 for (i = 0; i < l; i++) {
