@@ -19,6 +19,8 @@ document.write(x1.length + "<br>");
 document.write("hello3<br>"); 
 var y = x1[0].getElementsByClassName("*");
 document.write("hello3a<br>"); 
+document.write("scroll width: " + x1[0].scrollWidth);
+document.write("hello36<br>"); 
 document.write(y.length + "<br>");
 document.write("hello4<br>"); 
 document.write(y[0].className + "<br>");
