@@ -1,17 +1,29 @@
 ---
 permalink: /gdpr/
-title: "GDPR25"
+title: "GDPR26"
 ---
 
 
-# GDPR Page25A
+# GDPR Page
 <p>
   hello before
   <p>
 <script>
 
+document.write("hello<br>");
+x = document.getElementsByTagName("*");
+l = x.length;
+for (i = 0; i < l; i++) {
+  document.write(x[i].tagName + "<br>");
+  document.write(x[i].nodeName + "<br>");
+    document.write(x[i].className + "<br>");
+        document.write(x[i].id + "<br>");
+
+}
+
+
 const width  = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;  
-document.write("hello from 25: ");
+
 document.write( width); 
 </script>
 <p>
