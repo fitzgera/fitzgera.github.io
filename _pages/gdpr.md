@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR49"
+title: "GDPR50"
 ---
 
 
@@ -76,13 +76,13 @@ console.log("hello from resizer2 " + width);
 var iFrameobj =document.getElementById(id);
 console.log("hello from resizer3 " + iFrameobj); 
 iFrameobj.style.height=5000 + 'px';
-iFrameobj.style.width=width+ 'px';
+iFrameobj.style.width=width + 'px';
 console.log("hello from resizer4 "); 
 console.log("hello from resizer5 " + iFrameobj.style.width);
 }
 </script>
 
-<IFRAME SRC="gdprcollapse" id="iframeGDPR"  onLoad="resizer('iframeGDPR');"></iframe>
+<IFRAME SRC="gdprcollapse" id="iframeGDPR" frameborder="0"  onLoad="resizer('iframeGDPR');"></iframe>
 <!-- 
 <IFRAME SRC="gdprcollapse" id="iframeGDPR"  onLoad="resizer('iframeGDPR');"></iframe>
 
