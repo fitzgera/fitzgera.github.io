@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR47"
+title: "GDPR48"
 ---
 
 
@@ -73,9 +73,11 @@ var width = x1[0].scrollWidth
 //document.write("hello3a<br>"); 
 //document.write("scroll width: " + x1[0].scrollWidth  + "<br>");
 console.log("hello from resizer2 " + width); 
-document.getElementById(id).style.height=5000;
-document.getElementById(id).style.width=width;
-
+var iFrameobj =document.getElementById(id);
+console.log("hello from resizer3 " + iFrameobj); 
+iFrameobj.style.height=5000;
+iFrameobj.style.width=width;
+console.log("hello from resizer4 "); 
 }
 </script>
 
