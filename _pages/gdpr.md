@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR26"
+title: "GDPR27"
 ---
 
 
@@ -16,8 +16,9 @@ l = x.length;
 for (i = 0; i < l; i++) {
   document.write(x[i].tagName + "<br>");
   document.write(x[i].nodeName + "<br>");
-    document.write(x[i].className + "<br>");
-        document.write(x[i].id + "<br>");
+  document.write(x[i].className + "<br>");
+  document.write(x[i].id + "<br>");
+  document.write(x[i].width + "<br>");        
 
 }
 
