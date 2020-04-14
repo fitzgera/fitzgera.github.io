@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR33"
+title: "GDPR34"
 ---
 
 
@@ -15,7 +15,7 @@ var x1 = document.getElementsByTagName("article");
 document.write("hello2<br>");
  document.write(x1[0].tagName + "<br>");
 document.write("hello3<br>"); 
-var y = x1.getElementsByClassName("page");
+var y = x1[0].getElementsByClassName("page");
 document.write("hello3a<br>"); 
 document.write(y[0].tagName + "<br>");
 document.write("hello4<br>"); 
