@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR31"
+title: "GDPR32"
 ---
 
 
@@ -12,6 +12,9 @@ title: "GDPR31"
 
 document.write("hello<br>");
 var x1 = document.getElementsByTagName("article");
+document.write("hello2<br>");
+ document.write(x1[0].tagName + "<br>");
+ 
 var y = x1.getElementsByClassName("page");
 document.write("scroll width: " + y[0].scrollWidth);
 document.write("hello between<br>");
