@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR41"
+title: "GDPR44"
 ---
 
 
@@ -57,19 +57,29 @@ document.write( width);
 function resizer(id)
 {
 
+/*
 var doc=document.getElementById(id).contentWindow.document;
+
 var body_ = doc.body, html_ = doc.documentElement;
 
 var height = Math.max( body_.scrollHeight, body_.offsetHeight, html_.clientHeight, html_.scrollHeight, html_.offsetHeight );
 var width  = Math.max( body_.scrollWidth, body_.offsetWidth, html_.clientWidth, html_.scrollWidth, html_.offsetWidth );
+*/
+
+var x1 = document.getElementsByTagName("article");
+var width = x1[0].scrollWidth
+
+//document.write("hello3a<br>"); 
+//document.write("scroll width: " + x1[0].scrollWidth  + "<br>");
 
 document.getElementById(id).style.height=5000;
-document.getElementById(id).style.width=936;
+document.getElementById(id).style.width=width;
 
 }
 </script>
 
 <IFRAME SRC="gdprcollapse" id="iframeGDPR"  onLoad="resizer('iframeGDPR');"></iframe>
 
-//<iframe width="1000" height="5000" id="iframeGDPR" src="gdprcollapse" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<!-- <iframe width="1000" height="5000" id="iframeGDPR" src="gdprcollapse" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+-->
 
