@@ -1,17 +1,17 @@
 ---
 permalink: /gdpr/
-title: "GDPR24"
+title: "GDPR25"
 ---
 
 
-# GDPR Page24A
+# GDPR Page25A
 <p>
   hello before
   <p>
 <script>
-var width  = Math.max( body_.scrollWidth, body_.offsetWidth, html_.clientWidth, html_.scrollWidth, html_.offsetWidth );
+
 const width  = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;  
-document.write("hello from 24: ");
+document.write("hello from 25: ");
 document.write( width); 
 </script>
 <p>
