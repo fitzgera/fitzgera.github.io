@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR40"
+title: "GDPR41"
 ---
 
 
@@ -53,6 +53,7 @@ document.write( width);
   hello after
 <p>
 
+<script>
 function resizer(id)
 {
 
@@ -66,6 +67,7 @@ document.getElementById(id).style.height=5000;
 document.getElementById(id).style.width=936;
 
 }
+</script>
 
 <IFRAME SRC="gdprcollapse" id="iframeGDPR"  onLoad="resizer('iframeGDPR');"></iframe>
 
