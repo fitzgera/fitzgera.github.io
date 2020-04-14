@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR39"
+title: "GDPR40"
 ---
 
 
@@ -19,7 +19,9 @@ document.write(x1.length + "<br>");
 document.write("hello3<br>"); 
 var y = x1[0].getElementsByClassName("*");
 document.write("hello3a<br>"); 
-document.write("scroll width: " + x1[0].scrollWidth);
+document.write("scroll width: " + x1[0].scrollWidth  + "<br>");
+
+/*
 document.write("hello36<br>"); 
 document.write(y.length + "<br>");
 document.write("hello4<br>"); 
@@ -44,11 +46,28 @@ for (i = 0; i < l; i++) {
 const width  = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;  
 
 document.write( width); 
+*/
 </script>
+
 <p>
   hello after
 <p>
 
+function resizer(id)
+{
 
-<iframe width="1000" height="5000" src="gdprcollapse" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+var doc=document.getElementById(id).contentWindow.document;
+var body_ = doc.body, html_ = doc.documentElement;
+
+var height = Math.max( body_.scrollHeight, body_.offsetHeight, html_.clientHeight, html_.scrollHeight, html_.offsetHeight );
+var width  = Math.max( body_.scrollWidth, body_.offsetWidth, html_.clientWidth, html_.scrollWidth, html_.offsetWidth );
+
+document.getElementById(id).style.height=5000;
+document.getElementById(id).style.width=936;
+
+}
+
+<IFRAME SRC="gdprcollapse" id="iframeGDPR"  onLoad="resizer('iframeGDPR');"></iframe>
+
+//<iframe width="1000" height="5000" id="iframeGDPR" src="gdprcollapse" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
