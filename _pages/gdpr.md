@@ -1,6 +1,6 @@
 ---
 permalink: /gdpr/
-title: "GDPR46"
+title: "GDPR47"
 ---
 
 
@@ -56,7 +56,8 @@ document.write( width);
 <script>
 function resizer(id)
 {
-//document.write("hello from resizer"); 
+  
+console.log("hello from resizer"); 
 /*
 var doc=document.getElementById(id).contentWindow.document;
 
@@ -71,7 +72,7 @@ var width = x1[0].scrollWidth
 
 //document.write("hello3a<br>"); 
 //document.write("scroll width: " + x1[0].scrollWidth  + "<br>");
-
+console.log("hello from resizer2 " + width); 
 document.getElementById(id).style.height=5000;
 document.getElementById(id).style.width=width;
 
