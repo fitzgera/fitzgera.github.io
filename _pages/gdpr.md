@@ -1,6 +1,7 @@
 ---
 permalink: /gdpr/
 title: "GDPR"
+classes: wide
 ---
 
 <p>
