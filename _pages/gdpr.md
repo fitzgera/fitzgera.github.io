@@ -4,7 +4,7 @@ title: "GDPR"
 ---
 
 <p>
-This page shows the <b>EU General Data protection Regualation (GDPR)</b> as a set of collapsible chapters. It helps give an overview of the regulation
+This page shows the <b>EU General Data protection Regulation (GDPR)</b> as a set of collapsible chapters. It helps give an overview of the regulation
 <p>
 There are 173 "recitals" plus 99 articles. The articles are broken down in 10 chapters. Some of the chapters are broken down into sections. 
 For example Section 2 (Security of Personal Data) contains 3 articles (32 - 34). 
