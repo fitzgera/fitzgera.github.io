@@ -16,5 +16,5 @@ For more information, or to contact me, please use the connection links on the l
 I use this site for various articles and projects:
 <ul>
 <li> 
-[GDPR](/project_website/gdpr) contains a "collapsible" version of the EU GDPR privacy regulation.</li>
+GDPR contains a "collapsible" version of the EU GDPR privacy regulation.</li>
 </ul>
