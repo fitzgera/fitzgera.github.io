@@ -9,10 +9,7 @@ layout: archive
 <p>
 I am an information security specialist with a focus on risk management and data privacy, I have worked extensively for small and large organizations internationally - for the last 10 years in Switzerland.
 <p>
-[GDPR](/project_website/gdpr)
-* red
-* green
-* blue
+
 
 For more information, or to contact me, please use the connection links on the left hand side.  
 <p>
