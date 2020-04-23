@@ -3,8 +3,8 @@ layout: archive
 ---
 
 {{ content }}
-<p>
-<h1>Personal Website </h1>
+
+# Personal Website 
 
 <p>
 I am an information security specialist with a focus on risk management and data privacy, I have worked extensively for small and large organizations internationally - for the last 10 years in Switzerland.
