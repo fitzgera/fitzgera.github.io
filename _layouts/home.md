@@ -14,7 +14,7 @@ I am an information security specialist with a focus on risk management and data
 For more information, or to contact me, please use the connection links on the left hand side.  
 <p>
 I use this site for various articles and projects:
-<ul>
-<li> 
-GDPR contains a "collapsible" version of the EU GDPR privacy regulation.</li>
-</ul>
+<p>  
+1. GDPR contains a "collapsible" version of the EU GDPR privacy regulation.</li>
+2. Another item
+
