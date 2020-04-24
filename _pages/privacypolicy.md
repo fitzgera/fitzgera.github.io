@@ -1,6 +1,10 @@
 ---
 permalink: /privacypolicy/
 title: "Privacy Policy and Cookies"
+
+toc: true
+toc_label: "On this page"
+toc_icon: "cog"
 ---
 
 
