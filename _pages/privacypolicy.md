@@ -3,7 +3,6 @@ permalink: /privacypolicy/
 title: "Privacy Policy and Cookies"
 ---
 
-# Privacy Policy and Cookies
 
 This Privacy Policy and Cookies page may be updated as necessary
 
