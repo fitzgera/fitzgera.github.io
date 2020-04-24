@@ -8,11 +8,16 @@ toc_icon: "cog"
 ---
 
 
-This Privacy Policy and Cookies page may be updated as necessary
-
 ## Personal Data
-
-This site does not process any personal information
+This site does not collect any personal information
 
 ## Cookies
-This site does not process cookies
+This site does not use cookies
+
+## GitHub Privacy Statement
+This website is hosted as a GitHub Pages resource on GitHub. Please refer to the <a href="https://help.github.com/en/github/site-policy/github-privacy-statement">GitHub Privacy Statement </a> 
+
+## Updates
+This Privacy Policy and Cookies page may be updated as necessary
+
+
