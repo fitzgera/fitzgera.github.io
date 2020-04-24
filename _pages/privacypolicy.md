@@ -7,7 +7,6 @@ toc_label: "On this page"
 toc_icon: "cog"
 ---
 
-
 ## Personal Data
 This site does not collect any personal information
 
@@ -20,4 +19,4 @@ This website is hosted as a GitHub Pages resource on GitHub. Please refer to the
 ## Updates
 This Privacy Policy and Cookies page may be updated as necessary
 
-
+<i>Initial updated: April 24th 2020 </i>
