@@ -74,7 +74,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fitzgera/"
- 
+    - label: "Privacy Policy"
+      icon: 
+      url: "https://fitzgera.github.io/privacypolicy/"
+  
 
 footer:
   links:
