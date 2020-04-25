@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Information Security Risk and Data Privacy "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alexisfitzg/"
