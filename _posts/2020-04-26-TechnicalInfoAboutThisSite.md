@@ -5,8 +5,6 @@ categories:
   - Post About this site
 tags:
   - Post About this site
-  - readability
-  - standard
 ---
 
 Some technical information about this site
