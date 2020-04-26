@@ -115,3 +115,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Outputting added 26.04.2020 to see if categories work
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
