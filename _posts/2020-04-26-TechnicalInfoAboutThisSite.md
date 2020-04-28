@@ -23,7 +23,7 @@ toc_icon: "cog"
 * Minimal Mistakes example [Site Starter](https://mmistakes.github.io/mm-github-pages-starter/)
 * Minimal Mistakes example [Site Starter Source Code](https://github.com/mmistakes/mm-github-pages-starter)
 
-* Krish Shen's site and how to make the [Header Sticky](https://krisshen.me/project_website/how-to-make-header-sticky/)
+* Krish Shen's [site](https://krisshen.me/) and how to make the [Header Sticky](https://krisshen.me/project_website/how-to-make-header-sticky/)
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
