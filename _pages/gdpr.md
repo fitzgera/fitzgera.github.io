@@ -2,7 +2,6 @@
 permalink: /gdpr/
 title: "GDPR"
 classes: wide
-
 categories:
   - GDPR
 tags:
