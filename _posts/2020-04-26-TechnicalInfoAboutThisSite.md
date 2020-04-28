@@ -37,7 +37,7 @@ toc_icon: "cog"
   * Make masthead/header "sticky" (it doesn't move when you scroll up and down)
   * Change  background colour of masthead/header to  #ac4142;
   * change colour of masthead/header menu  items to white
-* Create [category-archive.md](https://github.com/fitzgera/fitzgera.github.io/blob/master/_pages/category-archive.md) and [tag_archive.md](https://github.com/fitzgera/fitzgera.github.io/blob/master/_pages/tag-archive.md) files. I put these in the [_pages](https://github.com/fitzgera/fitzgera.github.io/tree/master/_pages) folder. But I don't know if they need to be here.
+* Create [category-archive.md](https://github.com/fitzgera/fitzgera.github.io/blob/master/_pages/category-archive.md) and [tag_archive.md](https://github.com/fitzgera/fitzgera.github.io/blob/master/_pages/tag-archive.md) files. I put these in the [_pages](https://github.com/fitzgera/fitzgera.github.io/tree/master/_pages) folder. But I don't know if they need to be here. See [Issue 1764] (https://github.com/mmistakes/minimal-mistakes/issues/1764)
 
 
 
