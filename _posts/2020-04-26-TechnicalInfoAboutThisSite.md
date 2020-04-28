@@ -15,12 +15,16 @@ toc_icon: "cog"
 This site is a GitHub Pages resource hosted on <a href="github.com">github.com</a>
 
 ## Theme and Links
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* The site uses the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes)
+* <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
+
+* <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
 ## To Do....
 1. Figure out how to change the footer, especially the social media links and put in a privacy policy link
 2. The home page is incorrectly created
 3. Maybe embed a Twitter feed on the home page
+4. The "hamburger" menu text is the wrong colour
 
 
 ## Status 
