@@ -16,9 +16,16 @@ This site is a GitHub Pages resource hosted on <a href="github.com">github.com</
 
 ## Theme and Links
 * The site uses the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes)
-* [Minimal Mistakes documentation]<https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>
+* [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-* [Markdown Cheatsheet]<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+
+* Minimal Mistakes example [Site Starter](https://mmistakes.github.io/mm-github-pages-starter/)
+* Minimal Mistakes example [Site Starter Source Code](https://github.com/mmistakes/mm-github-pages-starter)
+
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Main Steps
 
 ## To Do....
 1. Figure out how to change the footer, especially the social media links and put in a privacy policy link
