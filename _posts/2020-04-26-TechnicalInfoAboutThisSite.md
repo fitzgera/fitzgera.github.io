@@ -12,7 +12,7 @@ toc_icon: "cog"
 ---
 
 ## Main Points
-* This site is a GitHub Pages resource hosted on [github.com]
+* This site is a GitHub Pages resource hosted on [https://github.com/]
 * [Source Code](https://github.com/fitzgera/fitzgera.github.io)
 
 ## Theme and Links
@@ -31,10 +31,15 @@ toc_icon: "cog"
 ## Main Steps
 * Create an initial [GitHub Pages Web Site](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 * Clone the example Site Starter site on GitHub using the links above and copy/overwrite the files in the  initial site you just created in the previous step
+* Update [main.scss](https://github.com/fitzgera/fitzgera.github.io/blob/master/assets/css/main.scss) to:
+⋅⋅* Make masthead/header "sticky" (it doesn't move)
+⋅⋅* Change  background colour of masthead to  #ac4142;
+⋅⋅* change colour of masthead/header menu  items to white
+
 
 ## To Do....
 1. Figure out how to change the footer, especially the social media links and put in a privacy policy link
-2. The home page is incorrectly created
+2. The home/splash page is incorrectly created
 3. Maybe embed a Twitter feed on the home page
 4. The "hamburger" menu text (on small screens) is the wrong colour
 5. Can tags and Categories be used on normal pages.
