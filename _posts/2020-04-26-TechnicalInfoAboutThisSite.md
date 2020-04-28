@@ -12,7 +12,7 @@ toc_icon: "cog"
 ---
 
 ## Main Points
-* This site is a GitHub Pages resource hosted on (github.com)[https://github.com/]
+* This site is a GitHub Pages resource hosted on [github.com](https://github.com/)
 * [Source Code](https://github.com/fitzgera/fitzgera.github.io)
 
 ## Theme and Links
