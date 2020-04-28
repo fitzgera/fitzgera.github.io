@@ -32,9 +32,9 @@ toc_icon: "cog"
 * Create an initial [GitHub Pages Web Site](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 * Clone the example Site Starter site on GitHub using the links above and copy/overwrite the files in the  initial site you just created in the previous step
 * Update [main.scss](https://github.com/fitzgera/fitzgera.github.io/blob/master/assets/css/main.scss) to:
-⋅⋅* Make masthead/header "sticky" (it doesn't move)
-⋅⋅* Change  background colour of masthead to  #ac4142;
-⋅⋅* change colour of masthead/header menu  items to white
+  * Make masthead/header "sticky" (it doesn't move)
+  * Change  background colour of masthead to  #ac4142;
+  * change colour of masthead/header menu  items to white
 
 
 ## To Do....
