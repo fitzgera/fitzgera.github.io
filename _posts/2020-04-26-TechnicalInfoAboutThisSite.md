@@ -31,10 +31,14 @@ toc_icon: "cog"
 ## Main Steps
 * Create an initial [GitHub Pages Web Site](https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 * Clone the example Site Starter site on GitHub using the links above and copy/overwrite the files in the  initial site you just created in the previous step
+* Update [_config.yml](https://github.com/fitzgera/fitzgera.github.io/blob/master/_config.yml) with the main site settings that you want
+* Update [navigation.yml](https://github.com/fitzgera/fitzgera.github.io/blob/master/_data/navigation.yml) for top menu contents 
 * Update [main.scss](https://github.com/fitzgera/fitzgera.github.io/blob/master/assets/css/main.scss) to:
   * Make masthead/header "sticky" (it doesn't move when you scroll up and down)
   * Change  background colour of masthead/header to  #ac4142;
   * change colour of masthead/header menu  items to white
+* Create [category-archive.md](https://github.com/fitzgera/fitzgera.github.io/blob/master/_pages/category-archive.md) and [tag_archive.md]https://github.com/fitzgera/fitzgera.github.io/blob/master/_pages/tag-archive.md files. I put these in the [_pages](https://github.com/fitzgera/fitzgera.github.io/tree/master/_pages) folder. But I don't know if they need to be here.
+
 
 
 ## To Do....
