@@ -13,11 +13,12 @@ toc_icon: "cog"
 
 ## Main Points
 * This site is a GitHub Pages resource hosted on [github.com](https://github.com/)
-* [Source Code](https://github.com/fitzgera/fitzgera.github.io)
+* [Source Code](https://github.com/fitzgera/fitzgera.github.io) on github.com
 
 ## Theme and Links
 * The site uses the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes)
 * [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+* [Source Code](https://github.com/mmistakes/minimal-mistakes/tree/master/docs) for Minimal Mistakes documentation. Useful to be able to look here and see how things are done.
 
 
 * Minimal Mistakes example [Site Starter](https://mmistakes.github.io/mm-github-pages-starter/)
