@@ -116,3 +116,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-17404110-2" # Added April 30th 2020
+    anonymize_ip         : true
+
