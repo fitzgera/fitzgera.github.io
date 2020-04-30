@@ -29,4 +29,5 @@ The site uses resources from fontawesome.com. Please refer to the <a href="https
 ## Updates
 This Privacy Policy and Cookies page may be updated as necessary
 
-<i>Initial update: April 24th 2020 </i>
+<i>Updated : April 30th 2020 </i> to include more details on Google Analytics
+<i>Initial version: April 24th 2020 </i>
