@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: home
 author_profile: true
 ---
 
 {{ content }}
 
-<h1> stuff goes here</h1>
+<h1> stuff goes here2</h1>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
