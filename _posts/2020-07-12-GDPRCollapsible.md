@@ -31,4 +31,4 @@ iFrameobj.style.width=width + 'px';
 }
 </script>
 
-<IFRAME SRC="gdprcollapse" id="iframeGDPR" frameborder="0"  onLoad="resizer('iframeGDPR');"></iframe>
+<IFRAME SRC="gdprcollapse.html" id="iframeGDPR" frameborder="0"  onLoad="resizer('iframeGDPR');"></iframe>
