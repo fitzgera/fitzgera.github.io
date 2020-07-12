@@ -16,7 +16,7 @@ I will use this site for various articles and projects:
 <p>  
 <ul>
   <li><a href="https://fitzgera.github.io/gdpr/">GDPR</a> contains a "collapsible" version of the EU GDPR privacy regulation</li>
-  <li><a href="https://fitzgera.github.io/post%20about%20this%20site/TechnicalInfoAboutThisSite/">Technical Details</a> about this site</li>
+  <li><a href="fitzgera.github.io/TechnicalInfo/">Technical Details</a> about this site</li>
  </ul>  
 
 
