@@ -1,5 +1,6 @@
 ---
 title: "Post: Technical Info About This Site"
+permalink: /TechnicalInfo/
 excerpt_separator: "<!--more-->"
 categories:
   - Post About this site
