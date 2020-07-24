@@ -15,7 +15,7 @@ For more information, or to contact me, please use the connection links on the l
 I will use this site for various articles and projects:
 <p>  
 <ul>
-  <li><a href="https://fitzgera.github.io/gdpr/">GDPR</a> contains a "collapsible" version of the EU GDPR privacy regulation</li>
+  <li><a href="https://fitzgera.github.io/gdprcollapsible/">GDPR</a> contains a "collapsible" version of the EU GDPR privacy regulation</li>
   <li><a href="fitzgera.github.io/TechnicalInfo/">Technical Details</a> about this site</li>
  </ul>  
 
